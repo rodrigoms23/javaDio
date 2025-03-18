@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Contador",
+      "request": "launch",
+      "mainClass": "exerc.rodrigo.DesafioControleFluxo.Contador",
+      "projectName": "javaProjetos_c60d66e9"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraDeMedias",
+      "request": "launch",
+      "mainClass": "exerc.rodrigo.deBugging.CalculadoraDeMedias",
+      "projectName": "javaProjetos_c60d66e9"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "exerc.rodrigo.deBugging.main",
+      "projectName": "javaProjetos_c60d66e9"
+    },
+    {
+      "type": "java",
       "name": "FormatadorCepExemplo",
       "request": "launch",
       "mainClass": "exerc.rodrigo.exceptionCustomizadas.FormatadorCepExemplo",
